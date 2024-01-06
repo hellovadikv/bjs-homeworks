@@ -1,3 +1,4 @@
+"use strict"
 function solveEquation(a, b, c) {
   let arr = [];
   let d = Math.pow(b, 2) - 4 * a * c
